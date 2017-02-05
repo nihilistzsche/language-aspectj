@@ -1,0 +1,14 @@
+{
+  "name": "language-aspectj",
+  "version": "0.1.0",
+  "description": "Aspect J syntax highlight for Atom",
+  "keywords": [
+  ],
+  "repository": "https://github.com/shadowphoenix/language-aspectj",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
